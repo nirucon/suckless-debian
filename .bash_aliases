@@ -28,3 +28,12 @@ alias .5='cd ../../../../..'
 alias now="date +"%T""
 alias nowtime=now
 alias nowdate="date +\"%d-%m-%Y\""
+# pgk
+alias update='sudo apt update'
+alias install='sudo apt install'
+alias remove='sudo apt remove'
+alias distup='sudo apt dist-upgrade'
+alias aptu='sudo apt update'
+alias apti='sudo apt install'
+alias aptr='sudo apt remove'
+alias aptdup='sudo apt dist-upgrade'
